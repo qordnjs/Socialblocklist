@@ -1190,3 +1190,4 @@ therally.twitter.com
 geo2.urls-real.api.twitter.com
 api-39-4-8-39-4-5.twitter.com
 gnip-stream.twitter.com
+x.com
