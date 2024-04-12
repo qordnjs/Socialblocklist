@@ -1,4 +1,4 @@
-161.117.70.136 https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
+161.117.70.136 
 161.117.70.145
 161.117.70.68
 161.117.70.89
