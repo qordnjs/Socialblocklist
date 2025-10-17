@@ -11,3 +11,4 @@ find . -type d -name "@eaDir" -print0 | xargs -0 rm -rf
 
 
 https://github.com/danhorton7 - tiktok
+https://github.com/nickoppen/pihole-blocklists
