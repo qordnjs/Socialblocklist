@@ -14,3 +14,6 @@ https://github.com/danhorton7 - tiktok
 https://github.com/nickoppen/pihole-blocklists
 https://bgp.tools/tags/vpsh
 https://github.com/nickoppen/pihole-blocklists
+https://github.com/ninjayoto/PornList/blob/master/PornList.txt
+https://github.com/Bon-Appetit/porn-domains/blob/master/domains.txt
+https://pastebin.com/gpHmA8X5
