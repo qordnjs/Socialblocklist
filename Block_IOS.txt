@@ -1,8 +1,0 @@
-appldnld.apple.com
-mesu.apple.com
-softwareupdates.apple.com
-updates-http.apple.com
-mzstatic.com
-swscan.apple.com
-xp.apple.com
-updates-http.cdn-apple.com
